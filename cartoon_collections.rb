@@ -1,4 +1,4 @@
-def roll_call_dwarves()
+def roll_call_dwarves(dwarf_list)
   # Your code here
   
 end
